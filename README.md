@@ -1,5 +1,12 @@
-## Hi there 👋
+# Claudia Cabrera | Analytics Portfolio 
 
-### Featured Projects  
-> #### Real Estate Regression Project: *Data-Driven Predictions & Recommendations for Home Prices in Local Real Estate Market*
-> [View Project](https://github.com/Claudia-Cabrera/Real-Estate-Regression)
+## Introduction 
+
+## Table of Contents 
+- [Machine Learning for Business Analytics](#machine-learning-for-business-analytics)
+- [Data Management for Business Analytics](#data-management-for-business-analytics)
+- [Decision Modeling](#decision-modeling)
+- [Data-Driven Storytelling for Impact](#data-driven-storytelling-for-impact)
+- [Business Analytics Practicum](#business-analytics-practicum)
+
+## Featured Projects 
